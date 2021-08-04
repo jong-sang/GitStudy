@@ -299,3 +299,33 @@ int main()
 
 ##### [문서의 최상단 링크](#markDown-study-report)
 
+
+
+사용 방법은 아래와 같다
+
+```
+[문서의 최상단 링크](#markdown-study-report)
+```
+
+문서의 최상단의 제목인 MarkDown Study Report를 사용한 예제인데 몇 가지 주의 할 사항이 있다.
+
+
+
+1. #을 붙인 후 이동을 원하는 제목 문자열의 대문자는 모두 소문자로 변경해야한다. Ex) #MarkDown ==> #markdown
+
+2. 특수 문자를 제거해야한다
+
+3. 변경한 문자열을 ()에 추가하면 된다.
+
+
+
+---
+
+### 15. 그림 링크 삽입
+
+문서 작업 중 이미지를 삽입하기 위한 기능이다.
+
+![image](https://namu.wiki/jump/DIdPKIr9M9PSvu1g8JcNgRx1NrprPWdzShRIz2Rt9StMh8cm1jWG6IGrVaqrCjSb)
+
+
+
